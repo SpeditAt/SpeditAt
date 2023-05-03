@@ -1,7 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WolfLangD&theme=gruvbox)](https://github.com/WolfLangD/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfLangD&layout=compact&theme=gruvbox)](https://github.com/WolfLangD/github-readme-stats)
 
-關於我:
+**About Me**
 - boy
 - 14y
 - like coding
