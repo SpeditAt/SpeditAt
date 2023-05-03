@@ -1,5 +1,5 @@
 # About Me
-hi i am a junior high school from taiwan, i like code to projects
+I am a junior high school from taiwan, i like code to projects
 
 嗨~ 很高興認識你，我是個來自台灣的國中生，喜歡寫專案
 
