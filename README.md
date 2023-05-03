@@ -6,8 +6,8 @@ I am a junior high school from taiwan, i like coding
 ### 認識的神 (持續聯絡): Haco Lazp 菘菘 YTMango upcloud 猴子 雪花 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WolfLangD&theme=gruvbox)](https://github.com/WolfLangD/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfLangD&layout=compact&theme=gruvbox)](https://github.com/WolfLangD/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SpedAt&theme=gruvbox)](https://github.com/Spedat/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spedat&layout=compact&theme=gruvbox)](https://github.com/Spedat/github-readme-stats)
 
 <!---
 WolfLangD/WolfLangD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
