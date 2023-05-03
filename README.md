@@ -4,10 +4,12 @@
 關於我:
 - boy
 - 14y
-- like coding (play)
+- like coding
+
+認識的神 (持續聯絡): Haco Lazp 菘菘 YTMango upcloud 猴子 雪花 
 
 社交媒體:
-None
+不公開
 
 <!---
 WolfLangD/WolfLangD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
