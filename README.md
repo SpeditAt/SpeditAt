@@ -5,7 +5,6 @@ I am a junior high school from taiwan, i like coding
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpeditAt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpeditAt&layout=compact?)](https://github.com/SpeditAt/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpeditAt)](https://github.com/SpeditAt/github-readme-stats)
 
 
 
