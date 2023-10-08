@@ -5,8 +5,6 @@ Hello, Nice to meet you, I am a junior high school from Taiwan
 
 大部分專案都是私密的 少部分開源
 
-(Python, Javascript, TypeScript, JAVA) <-- 新手
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolflangtw&theme=radical&show_icons=true)](https://github.com/wolflangtw/github-readme-stats)<br/>
 
 
