@@ -1,5 +1,5 @@
 # About Me
-I am a junior high school from taiwan
+Hello, Nice to meet you, I am a junior high school from Taiwan
 
 嗨~ 很高興認識你，我是個來自台灣的國中生
 
