@@ -1,7 +1,7 @@
 # About Me
 Hello, Nice to meet you, I am a junior high school student from Taiwan
 
-嗨~ 我是個來自台灣的國中生
+嗨~ 我是個來自台灣的學生
 
 大部分專案都是私密的 少部分開源
 
